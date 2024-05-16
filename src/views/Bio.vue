@@ -37,7 +37,7 @@ const modules = [Pagination];
             <div class="text">
               <div class="title"><h3>Estudios</h3></div>
             </div>
-            <div class="img"><img src="../../public/images/" alt="" /></div>
+            <div class="img"><img src="" alt="" /></div>
           </div>
         </swiper-slide>
         <swiper-slide
